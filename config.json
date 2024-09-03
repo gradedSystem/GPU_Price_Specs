@@ -1,0 +1,24 @@
+{
+  "title": "GPU Price Dataset",
+  "description": "This dataset contains over 300 listed GPU / video cards / graphics cards with specs and the latest prices that were all scraped in the web database Pcbuilder. Unfortunately, only items that had price displays were included. United States was the selected location, so expect the prices in United States Dollars USD currency.",
+  "logo": "eddy-favicon-color.svg",
+  "navbarTitle": {
+    "logo": "eddy-favicon-color.svg",
+    "text": "Covid-19 Worldwide Refined Dataset"
+  },
+  "author": {
+    "name": "Yedige Ashmet",
+    "url": "https://datahub.io/"
+  },
+  "navLinks": [
+    {
+      "href": "https://www.kaggle.com/datasets/shilongzhuang/gpu-prices-prediction",
+      "name": "GPU Price Kaggle Dataset"
+    },
+    {
+      "href": "https://www.linkedin.com/in/yedige2000/",
+      "name": "Let's communicate on LinkedIn!"
+    }
+  ],
+  "showSidebar": false
+}
