@@ -17,11 +17,11 @@ datapackage:
 # GPU_Price_Specs
 <PlotlyLineChart
   data={{
-    url: 'GPU_benchmarks_v7.csv' 
+    url: 'GPU_graphicsAPI/GPU_benchmarks_AMD.csv' 
   }}
   title="GPU Prices by Brand"
-  xAxis="brand"
-  yAxis="price"
+  xAxis="Manufacturer"
+  yAxis="OpenCL"
 />
 <FlatUiTable
   data={{
