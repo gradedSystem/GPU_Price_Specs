@@ -83,42 +83,43 @@ The chart below compares GPU benchmark scores with pricing. This visualization h
 
 ### G2Dmark vs. Pricing
 
-This chart compares the 2D graphics benchmark scores (G2Dmark) with pricing. It helps in understanding how 2D performance correlates with cost, which is useful for applications that rely more on 2D graphics.
+This chart compares the 2D graphics benchmark scores (G2Dmark) with pricing. By using the `brand` as the `xAxis`, we can see how different brands' 2D performance relates to their pricing.
 
 <PlotlyLineChart
   data={{
     url: 'GPU_benchmarks_v7.csv'
   }}
   title="G2Dmark vs. Pricing"
-  xAxis="gpuName"
+  xAxis="brand"
   yAxis="G2Dmark"
 />
 
 ### Power Performance vs. Pricing
 
-The following chart visualizes the power performance relative to pricing. This comparison highlights how efficiently GPUs convert power into performance, providing insights into the cost-effectiveness of different GPUs based on their power usage.
+The following chart visualizes power performance in relation to pricing. This comparison, with `brand` on the `xAxis`, highlights how various brands' efficiency in converting power into performance affects their pricing.
 
 <PlotlyLineChart
   data={{
     url: 'GPU_benchmarks_v7.csv'
   }}
   title="Power Performance vs. Pricing"
-  xAxis="gpuName"
+  xAxis="brand"
   yAxis="powerPerformance"
 />
 
 ### TDP vs. Pricing
 
-This chart illustrates the relationship between thermal design power (TDP) and pricing. It shows how power consumption impacts the cost of GPUs, which is important for evaluating the trade-off between performance and energy efficiency.
+This chart illustrates the relationship between thermal design power (TDP) and pricing. Using `brand` as the `xAxis`, it shows how different brands' power consumption correlates with their pricing, offering insights into cost versus energy efficiency.
 
 <PlotlyLineChart
   data={{
     url: 'GPU_benchmarks_v7.csv'
   }}
   title="TDP vs. Pricing"
-  xAxis="gpuName"
+  xAxis="brand"
   yAxis="TDP"
 />
+
 
 ## Summary
 
