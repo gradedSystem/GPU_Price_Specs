@@ -28,7 +28,7 @@ This section includes performance metrics for GPUs across CUDA, Metal, OpenCL, a
 
 <FlatUiTable
   data={{
-    url: 'GPU_scores_graphicsAPIs.csv.csv'
+    url: 'GPU_scores_graphicsAPIs.csv'
   }}
 />
 
@@ -61,7 +61,7 @@ The following chart illustrates the performance of GPUs across CUDA, OpenCL, and
 
 <PlotlyLineChart
   data={{
-    url: 'GPU_scores_graphicsAPIs.csv.csv'
+    url: 'GPU_scores_graphicsAPIs.csv'
   }}
   title="GPU Performance Across APIs"
   xAxis="Device"
