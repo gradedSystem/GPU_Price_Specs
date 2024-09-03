@@ -17,7 +17,7 @@ datapackage:
 # GPU_Price_Specs
 <PlotlyLineChart
   data={{
-    url: 'gpu_specs_prices.csv' 
+    url: 'GPU_benchmarks_v7.csv' 
   }}
   title="GPU Prices by Brand"
   xAxis="brand"
@@ -25,6 +25,6 @@ datapackage:
 />
 <FlatUiTable
   data={{
-    url: 'gpu_specs_prices.csv'
+    url: 'GPU_benchmarks_v7.csv'
   }}
 />
