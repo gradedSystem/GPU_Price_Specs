@@ -23,7 +23,7 @@ datapackage:
   xAxis="brand"
   yAxis="price"
 />
-<<FlatUiTable
+<FlatUiTable
   data={{
     url: 'gpu_specs_prices.csv'
   }}
