@@ -70,7 +70,7 @@ The following chart illustrates the performance of GPUs across CUDA, OpenCL, and
 
 ### Benchmark Scores vs. Pricing
 
-The chart below compares GPU benchmark scores with pricing. This visualization highlights the cost-effectiveness of various GPUs, helping to evaluate their performance relative to their price.
+The chart below compares GPU benchmark scores with pricing. This visualization highlights the cost-effectiveness of various GPUs by comparing their G3Dmark scores, which reflect graphical performance, against their prices. It provides insights into how pricing relates to performance, helping to evaluate the value of each GPU.
 
 <PlotlyLineChart
   data={{
@@ -79,6 +79,45 @@ The chart below compares GPU benchmark scores with pricing. This visualization h
   title="Benchmark Scores vs. Pricing"
   xAxis="gpuName"
   yAxis="G3Dmark"
+/>
+
+### G2Dmark vs. Pricing
+
+This chart compares the 2D graphics benchmark scores (G2Dmark) with pricing. It helps in understanding how 2D performance correlates with cost, which is useful for applications that rely more on 2D graphics.
+
+<PlotlyLineChart
+  data={{
+    url: 'GPU_benchmarks_v7.csv'
+  }}
+  title="G2Dmark vs. Pricing"
+  xAxis="gpuName"
+  yAxis="G2Dmark"
+/>
+
+### Power Performance vs. Pricing
+
+The following chart visualizes the power performance relative to pricing. This comparison highlights how efficiently GPUs convert power into performance, providing insights into the cost-effectiveness of different GPUs based on their power usage.
+
+<PlotlyLineChart
+  data={{
+    url: 'GPU_benchmarks_v7.csv'
+  }}
+  title="Power Performance vs. Pricing"
+  xAxis="gpuName"
+  yAxis="powerPerformance"
+/>
+
+### TDP vs. Pricing
+
+This chart illustrates the relationship between thermal design power (TDP) and pricing. It shows how power consumption impacts the cost of GPUs, which is important for evaluating the trade-off between performance and energy efficiency.
+
+<PlotlyLineChart
+  data={{
+    url: 'GPU_benchmarks_v7.csv'
+  }}
+  title="TDP vs. Pricing"
+  xAxis="gpuName"
+  yAxis="TDP"
 />
 
 ## Summary
