@@ -1,0 +1,11 @@
+Manufacturer,Device,CUDA,Metal,OpenCL,Vulkan
+PowerVR,PowerVR Rogue G6110,,,,71.0
+PowerVR,PowerVR Rogue GE8100,,,,43.0
+PowerVR,PowerVR Rogue GE8300,,,,69.0
+PowerVR,PowerVR Rogue GE8320,,,,82.0
+PowerVR,PowerVR Rogue GE8322,,,,92.0
+PowerVR,PowerVR Rogue GE9215,,,,75.0
+PowerVR,PowerVR Rogue GE9608,,,,97.0
+PowerVR,PowerVR Rogue GE9920,,,,96.0
+PowerVR,PowerVR Rogue GM9446,,,,112.0
+PowerVR,PowerVR Rogue GT7400 Plus,,,,588.0

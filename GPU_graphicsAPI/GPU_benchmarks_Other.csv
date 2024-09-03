@@ -1,0 +1,8 @@
+Manufacturer,Device,CUDA,Metal,OpenCL,Vulkan
+Other,"llvmpipe (LLVM 12.0.0, 256 bits)",,,,265.0
+Other,MuMu GL/VK,,,,42318.0
+Other,SKL Graphics,,,4048.0,
+Other,SwiftShader Device (LLVM 10.0.0),,,,435.0
+Other,V3D 4.2,,,,141.0
+Other,VeriSilicon,,,,73.0
+Other,VideoCore VI HW (V3D-620),,,,76.0

@@ -1,0 +1,23 @@
+Manufacturer,Device,CUDA,Metal,OpenCL,Vulkan
+Qualcomm,Adreno  430,,,,520.0
+Qualcomm,Adreno  506,,,,130.0
+Qualcomm,Adreno  509,,,,229.0
+Qualcomm,Adreno  512,,,,302.0
+Qualcomm,Adreno  530,,,,582.0
+Qualcomm,Adreno  540,,,,636.0
+Qualcomm,Adreno  610,,,,471.0
+Qualcomm,Adreno  612,,,,543.0
+Qualcomm,Adreno  615,,,,653.0
+Qualcomm,Adreno  616,,,,830.0
+Qualcomm,Adreno  618,,,,1071.0
+Qualcomm,Adreno  619,,,,1112.0
+Qualcomm,Adreno  620,,,,1174.0
+Qualcomm,Adreno  630,,,,1812.0
+Qualcomm,Adreno  640,,,,2539.0
+Qualcomm,Adreno  642,,,,2867.0
+Qualcomm,Adreno  642L,,,,2375.0
+Qualcomm,Adreno  643,,,,2495.0
+Qualcomm,Adreno  650,,,,3454.0
+Qualcomm,Adreno  660,,,,4550.0
+Qualcomm,Adreno  730,,,,6233.0
+Qualcomm,QUALCOMM Adreno,,,2381.0,

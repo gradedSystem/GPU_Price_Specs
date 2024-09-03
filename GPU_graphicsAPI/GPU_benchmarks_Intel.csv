@@ -1,0 +1,145 @@
+Manufacturer,Device,CUDA,Metal,OpenCL,Vulkan
+Intel,AlderLake-S Mobile Graphics Controller,,,8753.0,8526.0
+Intel,Amber Lake (Kabylake) GT2,,,,738.0
+Intel,Arc A350M Graphics,,,23107.0,
+Intel,Bay Trail,,,,156.0
+Intel,Gen12 Desktop Graphics Controller,,,15964.0,14128.0
+Intel,Gen12 Mobile Graphics Controller,,,7958.0,7341.0
+Intel,Gen12LP HD Graphics NEO,,,12321.0,
+Intel,Gen8 HD Graphics NEO,,,3277.0,
+Intel,Gen9 HD Graphics NEO,,,5784.0,
+Intel,Graphics (ADL-S GT1),,,,6339.0
+Intel,Graphics (RKL GT1),,,,5563.0
+Intel,Graphics [0x3ea0],,,4685.0,
+Intel,Graphics [0x4905],,,22230.0,
+Intel,Graphics [0x5917],,,4994.0,
+Intel,Graphics [0x9a49],,,14403.0,
+Intel,Graphics [0x9b41],,,5242.0,
+Intel,Graphics 630,,4424.0,,
+Intel,Graphics Gen12LP [0x9a49],,,9252.0,
+Intel,Graphics Gen9 [0x5916],,,4884.0,
+Intel,Haswell Desktop,,,,558.0
+Intel,HD Graphics,,,965.0,4783.0
+Intel,HD Graphics (Whiskey Lake 3x8 GT2),,,,2213.0
+Intel,HD Graphics 2500,,,401.0,
+Intel,HD Graphics 2500 (IVB GT1),,,,654.0
+Intel,HD Graphics 400,,,1243.0,
+Intel,HD Graphics 4000,,147.0,990.0,
+Intel,HD Graphics 4000 (IVB GT2),,,,1287.0
+Intel,HD Graphics 405,,,1751.0,
+Intel,HD Graphics 4200,,,1893.0,
+Intel,HD Graphics 4400,,,2299.0,
+Intel,HD Graphics 4400 (HSW GT2),,,,2249.0
+Intel,HD Graphics 4600,,,3076.0,
+Intel,HD Graphics 4600 (HSW GT2),,,,2810.0
+Intel,HD Graphics 500,,,1070.0,1362.0
+Intel,HD Graphics 5000,,408.0,3444.0,
+Intel,HD Graphics 5000 (HSW GT3),,,,2636.0
+Intel,HD Graphics 505,,,1433.0,1760.0
+Intel,HD Graphics 505 (APL 3),,,,1632.0
+Intel,HD Graphics 510,,,2699.0,2757.0
+Intel,HD Graphics 515,,3103.0,3332.0,3491.0
+Intel,HD Graphics 515 (SKL GT2),,,,2649.0
+Intel,HD Graphics 520,,,4231.0,3998.0
+Intel,HD Graphics 520 (SKL GT2),,,,3165.0
+Intel,HD Graphics 520 [0x1916],,,2201.0,
+Intel,HD Graphics 530,,4018.0,4602.0,4874.0
+Intel,HD Graphics 530 (SKL GT2),,,,3412.0
+Intel,HD Graphics 530 (Skylake GT2),,,,3253.0
+Intel,HD Graphics 530 [0x1912],,,962.0,
+Intel,HD Graphics 5300,,2534.0,1901.0,
+Intel,HD Graphics 5300 (BDW GT2),,,,2160.0
+Intel,HD Graphics 5300 (Broadwell GT2),,,,1937.0
+Intel,HD Graphics 5500,,,2564.0,
+Intel,HD Graphics 5500 (BDW GT2),,,,2804.0
+Intel,HD Graphics 5600,,,2872.0,
+Intel,HD Graphics 6000,,,3987.0,
+Intel,HD Graphics 6000 (BDW GT3),,,,3526.0
+Intel,HD Graphics 610,,,2823.0,2859.0
+Intel,HD Graphics 610 (Kaby Lake GT1),,,,678.0
+Intel,HD Graphics 615,,3518.0,3612.0,3848.0
+Intel,HD Graphics 615 (Kaby Lake GT2),,,,882.0
+Intel,HD Graphics 615 (KBL GT2),,,,2831.0
+Intel,HD Graphics 620,,,4496.0,4551.0
+Intel,HD Graphics 620 (KBL GT2),,,,3239.0
+Intel,HD Graphics 630,,4414.0,4894.0,5156.0
+Intel,HD Graphics 630 (Kaby Lake GT2),,,,3480.0
+Intel,HD Graphics 630 (KBL GT2),,,,3561.0
+Intel,HD Graphics Family,,,3278.0,
+Intel,HD Graphics Gen11,,,2751.0,2648.0
+Intel,HD Graphics Gen9,,,5603.0,
+Intel,HD Graphics P4000,,,1071.0,
+Intel,HD Graphics P4600,,,3147.0,
+Intel,HD Graphics P530,,,4854.0,4448.0
+Intel,HD Graphics P630,,,5190.0,5414.0
+Intel,HD Graphics Unknown,,4036.0,,
+Intel,HD Graphics XXX (BSW),,,,1313.0
+Intel,Iris Graphics,,457.0,3909.0,
+Intel,Iris Graphics 5100,,,4150.0,
+Intel,Iris Graphics 540,,6079.0,6252.0,2018.0
+Intel,Iris Graphics 550,,5855.0,6213.0,
+Intel,Iris Graphics 6000,,4603.0,,
+Intel,Iris Graphics 6100,,4919.0,3575.0,
+Intel,Iris Graphics 650,,,6046.0,
+Intel,Iris Plus Graphics,,8996.0,7546.0,
+Intel,Iris Plus Graphics 640,,6247.0,6601.0,
+Intel,Iris Plus Graphics 645,,6765.0,7232.0,
+Intel,Iris Plus Graphics 650,,6726.0,7106.0,
+Intel,Iris Plus Graphics 655,,6879.0,7357.0,
+Intel,Iris Pro,,,4419.0,
+Intel,Iris Pro Graphics,,478.0,,
+Intel,Iris Pro Graphics 5200,,,5106.0,
+Intel,Iris Pro Graphics 580,,,7470.0,
+Intel,Iris Pro Graphics 580 (Skylake GT4e),,,,5258.0
+Intel,Iris Pro Graphics 6200,,6681.0,4913.0,
+Intel,Iris Pro Graphics P580,,,9182.0,
+Intel,Iris Pro Graphics P6300,,,6273.0,
+Intel,Iris(R) Graphics 540,,,5885.0,6697.0
+Intel,Iris(R) Graphics 550,,,6574.0,7277.0
+Intel,Iris(R) Graphics 6100 (BDW GT3),,,,4075.0
+Intel,Iris(R) Plus Graphics,,,7576.0,7931.0
+Intel,Iris(R) Plus Graphics (ICL GT2),,,,5658.0
+Intel,Iris(R) Plus Graphics 640,,,5217.0,6827.0
+Intel,Iris(R) Plus Graphics 645,,,7638.0,7672.0
+Intel,Iris(R) Plus Graphics 650,,,5792.0,7880.0
+Intel,Iris(R) Plus Graphics 655,,,7413.0,8124.0
+Intel,Iris(R) Plus Graphics 655 (CFL GT3),,,,5422.0
+Intel,Iris(R) Pro Graphics 580,,,8684.0,9581.0
+Intel,Iris(R) Pro Graphics P5200 (HSW GT3),,,,3851.0
+Intel,Iris(R) Pro Graphics P580,,,9690.0,
+Intel,Iris(R) Xe Graphics,,,14184.0,14105.0
+Intel,Iris(R) Xe Graphics [0x9a49],,,10156.0,
+Intel,Iris(R) Xe MAX Graphics,,,17398.0,15155.0
+Intel,Iris(R) Xe MAX Graphics [0x4905],,,22236.0,
+Intel,KBL Graphics,,,4506.0,
+Intel,KBL Unknown,,4459.0,,
+Intel,LakeField Mobile Graphics Controller,,,4636.0,4177.0
+Intel,SKL Unknown,,4060.0,,
+Intel,UHD Graphics,,,5365.0,5844.0
+Intel,UHD Graphics (CML GT2),,,,3894.0
+Intel,UHD Graphics (Comet Lake 3x8 GT2),,,,4223.0
+Intel,UHD Graphics (ICL GT1),,,,3529.0
+Intel,UHD Graphics (TGL GT1),,,,5367.0
+Intel,UHD Graphics 600,,,1297.0,1343.0
+Intel,UHD Graphics 600 (Geminilake 2x6),,,,667.0
+Intel,UHD Graphics 600 (GLK 2),,,,1044.0
+Intel,UHD Graphics 600 [0x3185],,,822.0,
+Intel,UHD Graphics 605,,,1749.0,2063.0
+Intel,UHD Graphics 610,,,3139.0,3147.0
+Intel,UHD Graphics 610 (CFL GT1),,,,2140.0
+Intel,UHD Graphics 615,,,3773.0,3975.0
+Intel,UHD Graphics 617,,3771.0,4005.0,4749.0
+Intel,UHD Graphics 620,,,4848.0,4983.0
+Intel,UHD Graphics 620 (KBL GT2),,,,3604.0
+Intel,UHD Graphics 620 (WHL GT2),,,,3124.0
+Intel,UHD Graphics 630,,4553.0,5095.0,5552.0
+Intel,UHD Graphics 630 (CFL GT2),,,,3660.0
+Intel,UHD Graphics 630 (CML GT2),,,,3815.0
+Intel,UHD Graphics 710,,,4265.0,
+Intel,UHD Graphics 730,,,6934.0,6861.0
+Intel,UHD Graphics 750,,,7782.0,7514.0
+Intel,UHD Graphics 770,,,9253.0,9204.0
+Intel,UHD Graphics P630,,,5908.0,5787.0
+Intel,UHD Graphics P630 [0x3e96],,,6248.0,
+Intel,Xe Graphics,,,49205.0,
+Intel,Xe Graphics (TGL GT2),,,,8895.0
