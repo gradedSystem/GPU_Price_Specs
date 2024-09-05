@@ -13,6 +13,11 @@ datapackage:
     description: This dataset contains over 300 listed GPU / video cards / graphics cards with specs and the latest prices that were all scraped in the web database Pcbuilder. Unfortunately, only items that had price displays were included. United States was the selected location, so expect the prices in United States Dollars USD currency.
     lastModified: 2024-09-03
     path: gpu_specs_prices.csv
+  - name: NVIDIA-price-forecast
+    title: NVIDIA price forecast in US
+    description: THis dataset is the forecast in Statista for NVIDIA GPU Price
+    lastModified: 2024-09-05
+    path: NVIDIA_PRICE.csv
 ---
 # GPU Dataset Analysis
 
