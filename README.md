@@ -81,44 +81,17 @@ The chart below compares GPU benchmark scores with pricing. This visualization h
   yAxis="G3Dmark"
 />
 
-### G2Dmark vs. Pricing
+### NVIDIA GPU Price forecast (2024 - 2029)
 
-This chart compares the 2D graphics benchmark scores (G2Dmark) with pricing. By using the `brand` as the `xAxis`, we can see how different brands' 2D performance relates to their pricing.
-
-<PlotlyLineChart
+<LineChart
   data={{
-    url: 'GPU_benchmarks_v7.csv'
+    url: "NVIDIA_PRICE.csv"
   }}
-  title="G2Dmark vs. Pricing"
-  xAxis="brand"
-  yAxis="G2Dmark"
+  title="Forecast of NVIDIA Price in US 2024-2029"
+  xAxis="year"
+  yAxis="price"
 />
 
-### Power Performance vs. Pricing
-
-The following chart visualizes power performance in relation to pricing. This comparison, with `brand` on the `xAxis`, highlights how various brands' efficiency in converting power into performance affects their pricing.
-
-<PlotlyLineChart
-  data={{
-    url: 'GPU_benchmarks_v7.csv'
-  }}
-  title="Power Performance vs. Pricing"
-  xAxis="brand"
-  yAxis="powerPerformance"
-/>
-
-### TDP vs. Pricing
-
-This chart illustrates the relationship between thermal design power (TDP) and pricing. Using `brand` as the `xAxis`, it shows how different brands' power consumption correlates with their pricing, offering insights into cost versus energy efficiency.
-
-<PlotlyLineChart
-  data={{
-    url: 'GPU_benchmarks_v7.csv'
-  }}
-  title="TDP vs. Pricing"
-  xAxis="brand"
-  yAxis="TDP"
-/>
 
 
 ## Summary
