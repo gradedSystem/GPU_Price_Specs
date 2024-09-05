@@ -75,7 +75,7 @@ The chart below visualizes GPU performance across CUDA, OpenCL, and Vulkan APIs.
 
 The bar chart below presents the projected prices of NVIDIA GPUs from 2024 to 2029, based on forecasts from Statista. This visualization provides insights into future price trends and helps in planning long-term investments.
 
-<PlotlyBarChart
+<PlotlyLineChart
   data={{
     url: 'NVIDIA_PRICE.csv'
   }}
@@ -88,7 +88,7 @@ The bar chart below presents the projected prices of NVIDIA GPUs from 2024 to 20
 
 This section provides an overview of key NVIDIA GPU releases starting from 2013.
 
-<PlotlyBarChart
+<PlotlyLineChart
   data={{
     url: 'release_year_nvidia.csv'
   }}
