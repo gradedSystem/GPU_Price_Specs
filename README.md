@@ -49,11 +49,6 @@ This section details the performance metrics of GPUs across several APIs, includ
 
 This section includes detailed information on GPU benchmark scores, pricing, power consumption (TDP), and other critical specifications. These details help in assessing the overall value and suitability of different GPUs based on specific needs and budget constraints.
 
-<FlatUiTable
-  data={{
-    url: 'GPU_benchmarks_v7.csv'
-  }}
-/>
 
 #### Key Insights
 
@@ -87,6 +82,45 @@ The bar chart below presents the projected prices of NVIDIA GPUs from 2024 to 20
   title="Price Forecast of NVIDIA GPUs (2024-2029)"
   xAxis="year"
   yAxis="price"
+/>
+
+### NVIDIA Releases from 2013
+
+This section provides an overview of key NVIDIA GPU releases starting from 2013.
+
+<PlotlyBarChart
+  data={{
+    url: 'release_year_nvidia.csv'
+  }}
+  title="NVIDIA Releases from 2013"
+  xAxis="release_year"
+  yAxis="release"
+/>
+
+## Datasets used:
+
+### GPU Benchmark
+
+<FlatUiTable
+  data={{
+    url: 'GPU_benchmarks_v7.csv'
+  }}
+/>
+
+### Nvidia Forecast
+
+<FlatUiTable
+  data={{
+    url: 'NVIDIA_PRICE.csv'
+  }}
+/>
+
+### Nvidia Release from 2013
+
+<FlatUiTable
+  data={{
+    url: 'release_year_nvidia.csv'
+  }}
 />
 
 ## Summary
