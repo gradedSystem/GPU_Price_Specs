@@ -128,5 +128,3 @@ This section provides an overview of key NVIDIA GPU releases starting from 2013.
 - **Performance Metrics**: Provides a detailed view of GPU capabilities across various APIs, helping to identify which GPUs are best suited for specific applications and tasks.
 - **Specifications**: Offers a comprehensive look at benchmarks, pricing, and power consumption, aiding in the selection of GPUs based on performance needs and budget considerations.
 - **Visualizations**: The charts offer a clear perspective on GPU performance across different APIs and projected price trends, facilitating informed decision-making for current and future GPU investments.
-
-Explore the tables and charts to gain a deeper understanding of GPU performance and value, and make well-informed choices based on your requirements.
