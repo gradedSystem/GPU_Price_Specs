@@ -83,15 +83,14 @@ The chart below compares GPU benchmark scores with pricing. This visualization h
 
 ### NVIDIA GPU Price forecast (2024 - 2029)
 
-<LineChart
+<PlotlyLineChart
   data={{
-    url: "NVIDIA_PRICE.csv"
+    url: 'NVIDIA_PRICE.csv'
   }}
   title="Forecast of NVIDIA Price in US 2024-2029"
   xAxis="year"
   yAxis="price"
 />
-
 
 
 ## Summary
