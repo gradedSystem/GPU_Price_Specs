@@ -73,7 +73,7 @@ The chart below visualizes GPU performance across CUDA, OpenCL, and Vulkan APIs.
   }}
   title="GPU Performance Across APIs"
   xAxis="Device"
-  yAxis="CUDA"
+  yAxis="OpenCL"
 />
 
 ### NVIDIA GPU Price Forecast (2024 - 2029)
@@ -85,8 +85,8 @@ The bar chart below presents the projected prices of NVIDIA GPUs from 2024 to 20
     url: 'NVIDIA_PRICE.csv'
   }}
   title="Price Forecast of NVIDIA GPUs (2024-2029)"
-  xAxis="Year"
-  yAxis="Price (USD)"
+  xAxis="year"
+  yAxis="price"
 />
 
 ## Summary
