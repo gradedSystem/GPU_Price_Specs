@@ -3,10 +3,11 @@ datapackage:
   title: GPU Price Dataset
   created: 2024-09-03
   updated: 2024-09-11
-  format: csv
   sources:
     - path: https://pcbuilder.net/product/graphics-card/
       title: PC Builder Graphics Card
+    - path: https://www.kaggle.com/datasets/shilongzhuang/gpu-prices-prediction
+      title: GPU Price Kaggle Dataset
   resources:
     - name: gpu-price-dataset
       title: GPU Specs and Latest Prices
@@ -20,6 +21,12 @@ datapackage:
         This dataset provides a forecast of NVIDIA GPU prices based on Statista projections. It covers the anticipated price trends for NVIDIA GPUs from 2024 to 2029.
       lastModified: 2024-09-05
       path: NVIDIA_PRICE.csv
+    - name: NVIDIA-release-year
+      title: Releases of NVIDIA 
+      description: |
+        This dataset provides all NVIDIA GPU releases between 2012 and 2022.
+      lastModified: 2024-09-11
+      path: release_year_nvidia.csv
 ---
 
 # GPU Dataset Analysis
