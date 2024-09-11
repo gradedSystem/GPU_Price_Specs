@@ -2,7 +2,7 @@
 datapackage:
   title: GPU Price Dataset
   created: 2024-09-03
-  updated: 2024-09-03
+  updated: 2024-09-11
   format: csv
   sources:
     - path: https://pcbuilder.net/product/graphics-card/
@@ -88,7 +88,7 @@ The bar chart below presents the projected prices of NVIDIA GPUs from 2024 to 20
 
 This section provides an overview of key NVIDIA GPU releases starting from 2013.
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'release_year_nvidia.csv'
   }}
